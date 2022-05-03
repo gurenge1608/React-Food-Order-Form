@@ -1,2 +1,2 @@
 # React-Food-Order-Form
- Pratice React App
+ Practice React App
